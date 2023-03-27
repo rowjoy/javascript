@@ -41,7 +41,7 @@ let f = undefined ;
 console.log(f);
 
 // javascript object type 
-// non premitype data // Object js 
+// non premitype data // Object type 
 const data  = {
   "Name" : "Jamirul islam",
   "Roll" : 14,
